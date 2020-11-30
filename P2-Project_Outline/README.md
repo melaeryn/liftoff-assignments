@@ -20,10 +20,10 @@ make your move the best one.
 - User Login: Users will be able to create accounts and log in to the 
 applicaiton. Each User will have a profile page.
 
--Search: Search for a city based on given criteria such as location, 
+- Search: Search for a city based on given criteria such as location, 
 ratings, and employment. Compare cities' stats side-by-side.
 
--Create: reviews for cities you've lived in that others can see when 
+- Create: reviews for cities you've lived in that others can see when 
 logged in.
 
 ### Technologies
